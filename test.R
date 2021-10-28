@@ -1,1 +1,1 @@
-library(janito)
+library(janitor)
